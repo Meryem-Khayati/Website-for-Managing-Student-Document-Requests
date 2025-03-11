@@ -1,0 +1,22 @@
+# WordPress Core
+wp-admin
+wp-includes
+
+# WordPress Content Uploads (media files)
+wp-contentuploads
+
+# Temporary files
+.log
+.tmp
+.swp
+
+# Files from IDEs
+.idea
+.vscode
+
+# WordPress configuration
+wp-config.php
+
+# Cache files
+wp-contentcache
+wp-contentbackups
